@@ -68,7 +68,7 @@
 * Understanding and avoiding red flags
 * Understanding and adopting best practices
 
-### Group
+## Group
 
 * Attendance
 * Deadlines
@@ -80,7 +80,7 @@
 * Conflicts
 * Infractions
 
-### Interactions
+## Interactions
 
 * Interaction with the customer
 * Interaction with the team leaders
