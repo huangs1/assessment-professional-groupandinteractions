@@ -7,7 +7,7 @@ the software engineering team is completing an assignment. The instructor
 invites each student in the course to master the technical and professional
 skills listed on this assignment sheet.
 
-## Description of Assessment
+## Improving the Assessment
 
 The students from [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/) used [GitHub flow
@@ -18,7 +18,7 @@ semester. They also described the student behaviors that would lead to an
 assessment at one of the following levels:
 
 * N = None
-* I = InadequateR
+* I = Inadequate
 * A = Adequate
 * G = Good
 * E = Excellent
@@ -47,12 +47,12 @@ libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
 huangs1 - Interactions with the customer and interactions with the team leaders
 ```
 
-This group of students finished the Individual and Revision of Guides sections:
+This group of students finished Groups and Interactions of Professional Skills
 
 ```
-everitt-andrew - Python software development and Revising the assessment form
-ALEXANDERB82 - Continuous integration with Travis and Foundations of software engineering practices
-leonardoz15 - Understand and avoiding red flags and Revising the code of conduct
+everitt-andrew
+ALEXANDERB82
+leonardoz15
 reibelj - Understanding and adopting best practices, Assisting with Project management 
 with GitHub, specifically the Flow Model and Python Development
 ```
@@ -62,6 +62,20 @@ fork for their row and everyone commited their work to said fork. Regarless of t
 differences, they were responsible for the Individual and Revision of Guides section of
 Professional Skills.
 
+The Foundations of Software Engineering Section was Completed by:
+
+```
+szklenskij (Jared Szlenski)
+thomad74 (Dillon Thoma)
+wattob (Benjamin Watto)
+```
+Project Management With GitHub and Continuous Integration With Travis CI by:
+```
+finneyj2 (Jahlia Finney)
+Alex-Yarkosky (Alex Yarkosky)
+livingstonp229 (Paul Livingston)
+ohnoanarrow (Tara Douglass)
+```
 (We need other teams)
 
 ## Challenges When Making Assessment Sheet
@@ -75,7 +89,9 @@ portions fit that style guide.
 
 We also encountered a number of obstacles in applying the grading skill to 
 some technical and personal skills, chiefly that some of the levels didn't 
-seem to apply to all of the skills. "None" in particular was difficult at
-times to distinguish from "Inadequate" in some cases. But we managed
-to circumvent these issues with communication among personal teams and 
-the larger group.
+seem to apply to all of the skills. This and other factors, made it 
+difficult to outline the specific diferences between some levels of the 
+grading scale(example: the difference between inadequate and good).
+"None" in particular was difficult at times to distinguish from 
+"Inadequate" in some cases. But we managed to circumvent these issues 
+with communication among personal teams and the larger group.
