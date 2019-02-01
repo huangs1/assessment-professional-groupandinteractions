@@ -410,9 +410,7 @@
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
   * I = If an assignment is turned in 1-4 days past the deadline
-  * A = If an assignment is turned in on the day of, or before the deadline
-  * G = If an assignment is turned in on the day of, or before the deadline
-  * E = If an assignment is turned in on the day of, or before the deadline
+  * A, G, and E = If an assignment is turned in on the day of, or before the deadline
 * Communication
   * N = Never check appropriate slack channels and never communicate with
    teammates
