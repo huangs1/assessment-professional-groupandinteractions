@@ -212,14 +212,11 @@
   yet it was still ultimately uninformative. An example of this would be
   ``I am so angry`` or ``Please work``.
   * A = Adequate would indicate that the commit message both made sense and was
-  descriptive, to an extent. An example of this would be ``X.py is broken.`` or
-  ``I added lines to the main method``
+  descriptive, to an extent. An example of this would be  ``I added lines to the main method``
   * G = Good would indicate that the commit message was both clear, and
-  moderately descriptive. ``The main method of X.py is broken.`` or ``created
-  three new variables in the main method``
+  moderately descriptive. Ex. ``created three new variables in the main method``
   * E = Excellent indicates a adequately detailed and clear commit message.
-  ``The main method isn't calling correctly`` or ``created three ints in the
-  main method``
+  Ex. ``created three ints in the main method``
 
 ### Continuous Integration with Travis
 
