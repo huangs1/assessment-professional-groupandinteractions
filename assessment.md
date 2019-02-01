@@ -168,7 +168,7 @@
   important purposes
 * Creating and using a repository fork
   * N = Pushing to the wrong fork or making forks that serve no purpose
-  * I = Forks with unclear names and purposes 
+  * I = Forks with unclear names and purposes
   * A = Creating and pushing to forks that are necessary to our design that have
   detailed annotations
   * G = Highly detailed forks with well-kept history and well-annotated code
