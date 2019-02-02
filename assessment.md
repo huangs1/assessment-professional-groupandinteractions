@@ -408,8 +408,8 @@ when creating python programs.
 * Interaction with the team leaders
   * N = Impolite and impatient
   * I = Polite but impatient and does not respond to team leaders
-  * A = Polite and patient but does not have clear requests
-  * G = Polite and patient
+  * A = Polite and patient but does not follow the team leaders' suggestions
+  * G = Polite and patient but does not have clear requests
   * E = Polite and patient
 * Interaction with the course instructor
   * N = Communicated with the instructor badly, did not follow
